@@ -1,0 +1,8 @@
+fitz
+openai
+python-dotenv
+PyMuPDF
+Pillow
+pytesseract
+tqdm
+agents
